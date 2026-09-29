@@ -1,0 +1,6 @@
+name: genpark-reflexion-episodic-critique-memory-buffer-skill
+version: 1.0.0
+description: Reflexion episodic failure memory buffer accumulating self-critiques and trial corrective plans
+command: python
+args:
+  - mcp_server.py
