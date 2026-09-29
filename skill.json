@@ -1,0 +1,20 @@
+{
+  "name": "genpark-reflexion-episodic-critique-memory-buffer-skill",
+  "version": "1.0.0",
+  "description": "Reflexion episodic failure memory buffer accumulating self-critiques and trial corrective plans",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "reflexion",
+    "self-correction",
+    "critique-memory",
+    "episodic-buffer",
+    "agent-learning",
+    "python-standard-library",
+    "agent-skills",
+    "error-recovery",
+    "feedback-loop",
+    "developer-tools"
+  ]
+}
